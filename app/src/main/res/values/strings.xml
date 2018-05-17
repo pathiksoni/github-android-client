@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="committed_date">Date</string>
+    <string name="committer_name">Name</string>
+    <string name="sha">Sha</string>
+    <string name="fetch_commits">Get Commits</string>
+    <string name="gh_repo">GH Repo</string>
+    <string name="owner">Owner</string>
+</resources>
